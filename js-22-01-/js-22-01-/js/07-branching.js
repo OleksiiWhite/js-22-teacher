@@ -1,22 +1,22 @@
+// /*
+//  * Оператор ветвеления if
+//  */
+
+if (5 > 30) {
+  тело;
+  //   console.log('qweqwe');
+}
+
+console.log('дальше');
 /*
- * Оператор ветвеления if
- */
+//  * Оператор ветвления if...else
+//  */
 
-// if (5 > 30) {
-//   //  тело
-//   console.log('qweqwe');
-// }
-
-// console.log('дальше');
-/*
- * Оператор ветвления if...else
- */
-
-// if (5 > 30) {
-//   console.log('x > y');
-// } else {
-//   console.log('x < y');
-// }
+if (5 > 30) {
+  console.log('x > y');
+} else {
+  console.log('x < y');
+}
 
 /*
  * Оператор ветвления else...if
