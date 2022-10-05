@@ -1,0 +1,31 @@
+body {
+  font-size: 70px;
+  color: blue;
+}
+h1 {
+  text-align: center;
+  font-size: 100px;
+  color: yellowgreen;
+}
+.timer {
+  display: flex;
+  justify-content: space-around;
+  background-color: turquoise;
+  margin: 0 100px;
+}
+
+.value[data-value="days"] {
+  color: tomato;
+}
+
+.value[data-value="hours"] {
+  color: orange;
+}
+
+.value[data-value="mins"] {
+  color: yellow;
+}
+
+.value[data-value="secs"] {
+  color: green;
+}
