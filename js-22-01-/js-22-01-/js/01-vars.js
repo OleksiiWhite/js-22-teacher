@@ -24,8 +24,8 @@ console.log(type);
  * - Как window.alert() блокирует интерпретацию
  */
 
-// console.log('До');
-// alert('qweqweqwe');
-// console.log('После');
+console.log('До');
+alert('qweqweqwe');
+console.log('После');
 
-// first
+first;
